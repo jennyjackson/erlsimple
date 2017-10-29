@@ -1135,3 +1135,4 @@ ul.children {
 #nextp{
 	right:0px;
 }
+code{word-wrap: break-word;word-break:break-all;}
